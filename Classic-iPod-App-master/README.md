@@ -1,5 +1,3 @@
-# iPod-Classic
-## View this app at: https://SunilKumarba2955.github.io/Classic-iPod-App/
 
 ## Basic Features.
 
